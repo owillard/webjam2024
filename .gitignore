@@ -1,3 +1,4 @@
+# tells git not to save the stuff here
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
